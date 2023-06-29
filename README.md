@@ -15,7 +15,7 @@ Piker is an easy-to-use, open-source, color picker app. With Piker, you can quic
 
 To install and use Piker, follow these steps:
 
-1. Download or clone the latest version of Piker from the [repository](https://github.com/zhtkrky/piker/).
+1. Download or clone the latest version of Piker from the [Releases](https://github.com/zhtkrky/piker/releases) page.
 2. Install dependencies by running `npm install` in the project directory.
 3. Build the app by running `npm run build`.
 4. This command will create a `dist` folder containing the built app.
